@@ -30,6 +30,12 @@
                             </label>
                         @enderror
                     </div>
+                  paste
+
+
+
+
+
                     <input type="submit" value="Create" class="btn btn-primary mt-3">
                 </form>
             </div>
